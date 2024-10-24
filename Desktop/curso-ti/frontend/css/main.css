@@ -104,3 +104,16 @@ section h2 {
     background-color: #e9b117;
 }
 
+#politics {
+    background-color: rgba(139, 139, 139, 0.583);
+}
+
+#politics article a {
+    background-color: #343434;
+}
+
+#culture {
+    background-color: rgba(69, 115, 207, 0.316);
+}
+
+
